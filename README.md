@@ -9,15 +9,15 @@
 </p>
 <p>
   to do list :
-  ✅draw the design of my website
-  ✅rework the design of the icmar logo
-  ❌create two branch one foor the front and an another for the back
-  ❌install React js
-  ❌create and design the different webpages
-  ❌install Django
-  ❌install postegreSQL
-  ❌create a relational data base
-  ❌create the back
-  ❌create link between front and back
-  ❌finishing stage
+  ✅draw the design of my website <br>
+  ✅rework the design of the icmar logo <br>
+  ❌create two branch one foor the front and an another for the back <br>
+  ❌install React js <br>
+  ❌create and design the different webpages <br>
+  ❌install Django <br>
+  ❌install postegreSQL <br>
+  ❌create a relational data base <br>
+  ❌create the back <br>
+  ❌create link between front and back <br>
+  ❌finishing stage <br>
 </p>
